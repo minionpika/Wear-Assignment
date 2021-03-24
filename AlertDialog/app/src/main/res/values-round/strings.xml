@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- <string name="hello_world">Hello Round World!</string> -->
+
+    <!-- Title -->
+    <string name="alert_title">Assignment 1.1</string>
+    <string name="alert_button">Show Alert Dialog</string>
+</resources>
