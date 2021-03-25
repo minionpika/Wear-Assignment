@@ -4,4 +4,6 @@
     <!-- Title -->
     <string name="alert_title">Assignment 1.1</string>
     <string name="alert_button">Show Alert Dialog</string>
+    <string name="alert_dialog_msg">Want to see a Toast message?</string>
+    <string name="toast_text">You are great!</string>
 </resources>
